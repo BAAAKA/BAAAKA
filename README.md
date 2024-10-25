@@ -1,5 +1,5 @@
 Currently solving coding challenges and working with Riot API libraries.
-
+My prefered language is Python, Numpy is my most used library.
 
 <!--
 **BAAAKA/BAAAKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
