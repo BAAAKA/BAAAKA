@@ -1,4 +1,5 @@
 Currently solving coding challenges and working with Riot API libraries.
+
 My prefered language is Python, Numpy is my most used library.
 
 <!--
