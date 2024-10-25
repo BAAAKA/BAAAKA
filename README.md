@@ -1,4 +1,5 @@
-Currently solving Coding Challenges and working with Riot API Libraries.
+Currently solving coding challenges and working with Riot API libraries.
+
 
 <!--
 **BAAAKA/BAAAKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
