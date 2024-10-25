@@ -1,4 +1,4 @@
-## Hi there 👋
+Currently solving Coding Challenges and working with Riot API Libraries.
 
 <!--
 **BAAAKA/BAAAKA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
