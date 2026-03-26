@@ -2,4 +2,4 @@ I like [Codewars](https://www.codewars.com/users/KAWAII%20BAAAKA/stats), and pre
 
 
 
-Most of my personal projects are hosted on my own [Forgejo](https://codeberg.org/forgejo) instance.
+Most of my personal projects are hosted on my own [Forgejo](https://codeberg.org/forgejo) instance or on [Codeberg](https://codeberg.org/KAWAII_BAAAKA/).
